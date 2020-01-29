@@ -1,0 +1,22 @@
+{
+  "name": "my-resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^2.0.5",
+    "@svgr/webpack": "^5.1.0",
+    "autoprefixer": "^9.7.4",
+    "next": "^9.2.1",
+    "postcss-import": "^12.0.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-markdown": "^4.3.1",
+    "tailwindcss": "^1.1.4"
+  }
+}
