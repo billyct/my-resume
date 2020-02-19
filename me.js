@@ -25,7 +25,7 @@ const me = {
   },
   resumes: [
     {
-      title: '杭州智化科技有限公司',
+      title: '杭州智化科技有限公司（技术栈：PHP/Javascript/Go）',
       date: '2016 - 2020',
       content: `
       
@@ -49,10 +49,7 @@ const me = {
 <br/>
 
 在设计上，因为没有设计师，所以基本上都是参考其他网站是怎么设计，然后再提取过来，
-UI 框架也使用过 [Bootstrap](//getbootstrap.com/)、[Bulma](//bulma.io/)、
-[Ant Design](//ant.design/)、[tailwindcss](//tailwindcss.com/)、
-[Material-UI](//material-ui.com/)、[Blueprint](//blueprintjs.com/) 这些，
-最后都将设计尽量保持「简单」。
+UI 框架也使用过很多，最后都将设计尽量保持「简单」。
 
 <br/>
 
@@ -70,7 +67,7 @@ UI 框架也使用过 [Bootstrap](//getbootstrap.com/)、[Bulma](//bulma.io/)、
       `,
     },
     {
-      title: '成都彩程软件设计有限公司',
+      title: '成都彩程软件设计有限公司（技术栈：Javascript/Ruby）',
       date: '2015 - 2016',
       content: `
 负责 [知人](//zhiren.com/) 产品的开发和维护。
@@ -88,7 +85,7 @@ UI 框架也使用过 [Bootstrap](//getbootstrap.com/)、[Bulma](//bulma.io/)、
       `,
     },
     {
-      title: '杭州随笔记网络技术有限公司',
+      title: '杭州随笔记网络技术有限公司（技术栈：Javascript/PHP）',
       date: '2014 - 2015',
       content: `
 
