@@ -19,14 +19,14 @@ const Header = () => (
     `}</style>
 
     <div className='flex text-white container mx-auto py-20'>
-      <div className='relative w-64 hidden md:block'>
+      <div className='relative w-64 hidden md:block mr-8'>
         <img
           className='w-64 bg-white shadow-lg absolute avatar'
           src='/img/avatar.jpg'
         />
       </div>
 
-      <div className='ml-8'>
+      <div>
         <p className='text-4xl font-semibold'>
           卢仡，
         </p>
